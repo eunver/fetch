@@ -18,4 +18,3 @@ async function getDegrees(url) {
       );
   }
   
- // getDegrees("my_degrees.json");
