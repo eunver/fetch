@@ -14,7 +14,7 @@ async function getDegrees(url) {
         data.data.forEach((element) => {
           document.getElementById("degrees").innerHTML=
           `My first degree was a ${element.degree.type} degree in 
-          ${element.degree.program} from ${element.degree.school} in ${element.degree.year} <br> <br>` ;
+          ${element.degree.program} from ${element.degree.school} in ${element.degree.year} \n` ;
         })
 
         
