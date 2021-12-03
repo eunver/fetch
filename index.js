@@ -12,7 +12,7 @@ async function getDegrees(url) {
       .then((data) =>
         document.getElementById("degrees").innerHTML=
           `My first degree was a ${data.data[0].degree.school} from ${data.data[0].degree.program} in ${data.data[0].degree.type}`
-        )
+        
       );
   }
   
