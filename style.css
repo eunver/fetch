@@ -2,7 +2,7 @@ body{
     text-align: center;
     background-color: brown;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size:larger;
+    font-size:x-large;
 }
 
 #submit {
@@ -14,8 +14,8 @@ body{
     text-align: center;
     text-decoration: none;
     outline: none;
-    color: black;
-    background-color:rgb(205, 169, 50);
+    color: whitesmoke;
+    background-color:rgb(205, 133, 50);
     border: none;
     border-radius: 15px;
     margin-top: 5rem;
