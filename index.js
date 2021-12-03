@@ -1,6 +1,6 @@
  window.onload = function(){
     var submitbutton = document.getElementById("submit");
-    submitbutton.onclick = getDegrees;}
+    submitbutton.onclick = getDegrees("my_degrees.json");}
 
 
 
