@@ -14,7 +14,7 @@ async function getDegrees(url) {
         
         document.getElementById("degrees").innerHTML=
           `My first degree was a ${element.degree.type} degree
-           in ${element.degree.program} from ${element.degree.school} in ${element.degree.year}`
+           in ${element.program} from ${element.school} in ${element.year}`
         
       }));
   }
