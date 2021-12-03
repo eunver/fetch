@@ -1,10 +1,11 @@
  window.onload = function(){
     var submitbutton = document.getElementById("submit");
-    submitbutton.onclick = getDegrees("my_degrees.json");}
+    submitbutton.onclick = getDegrees;}
 
 
 
 async function getDegrees(url) {
+     var url="my_degrees.json";
     // fetch the url
     await fetch(url)
       //get your data here, and check for the response status. If it's not 200, throw an error
