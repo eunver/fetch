@@ -12,7 +12,8 @@ async function getDegrees(url) {
       .then((response) => response.json())
       .then((data) =>
         document.getElementById("degrees").innerHTML=
-          `My first degree was a ${data.data[0].degree.school} from ${data.data[0].degree.program} in ${data.data[0].degree.type}`
+          `My first degree was a ${data.data[0].degree.type} degree
+           in ${data.data[0].degree.program} from ${data.data[0].degree.school} in ${data.data[0].degree.year}`
         
       );
   }

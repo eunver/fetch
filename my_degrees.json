@@ -4,24 +4,24 @@
             "degree":{
                 "school": "Middle East Technical University",
                 "program": "Mathematics",
-                "type": "BS",
-                "year Conferred": "2010"
+                "type": "Bachelors",
+                "year": "2010"
             }
         },
         {
             "degree":{
                 "school": "Middle East Technical University",
                 "program": "Financial Mathematics",
-                "type": "MS",
-                "year Conferred": "2013"
+                "type": "Master of Science",
+                "year": "2013"
             }
         },
         {
             "degree":{
                 "school": "Boston University",
                 "program": "Software Development",
-                "type": "MS",
-                "year Conferred": "2022"
+                "type": "Master of Science",
+                "year": "2022"
             }
         }
     ]
