@@ -1,3 +1,9 @@
+ window.onload = function(){
+    var submitbutton = document.getElementById("submit");
+    submitbutton.onclick = getDegrees;}
+
+
+
 async function getDegrees(url) {
     // fetch the url
     await fetch(url)
@@ -10,4 +16,4 @@ async function getDegrees(url) {
       );
   }
   
-  getDegrees("my_degrees.json");
+ // getDegrees("my_degrees.json");
