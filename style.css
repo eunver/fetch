@@ -23,5 +23,6 @@ body{
   }
 
   #degrees{
+      padding-left: 2rem;
       text-align: left;
   }
