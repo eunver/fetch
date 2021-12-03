@@ -21,3 +21,7 @@ body{
     margin-top: 5rem;
     
   }
+
+  #degrees{
+      text-align: left;
+  }
