@@ -14,9 +14,10 @@ body{
     text-align: center;
     text-decoration: none;
     outline: none;
-    color: black;
-    background-color:yellowgreen;
+    color: white;
+    background-color:rgb(205, 169, 50);
     border: none;
     border-radius: 15px;
-    box-shadow: 0 9px grey;
+    padding-top: 5rem;
+    
   }
