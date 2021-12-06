@@ -1,7 +1,8 @@
+
 {
     "data": [
         {
-            "degree":{
+            "degree":{ 
                 "school": "Middle East Technical University",
                 "program": "Mathematics",
                 "type": "Bachelors",
